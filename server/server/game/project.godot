@@ -1,0 +1,8 @@
+[application]
+
+config/name="Mega Legends Online"
+config/icon=""
+
+[rendering]
+
+quality/intended_usage/framebuffer_allocation=2
